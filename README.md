@@ -44,11 +44,14 @@ Here’s how to use the generateOTP function from the package:
     console.log(`Your custom length OTP is: ${customLengthOtp}`);
 
 ## License
+
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
 ## Contributing
+
 If you would like to contribute to the project, please fork the repository and submit a pull request. Make sure to follow the coding guidelines and add tests for any new features or bug fixes.
 
 ## Contact
+
 For any questions or issues, please open an issue in the repository or contact the maintainers.
 
