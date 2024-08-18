@@ -1,0 +1,26 @@
+{
+  "name": "otp-generator-by-length",
+  "version": "1.0.0",
+  "description": "An npm package to generate OTP",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiteshRay07/otp-generator-by-length.git"
+  },
+  "keywords": [
+    "otp",
+    "npm",
+    "opt-generator",
+    "generate-otp"
+  ],
+  "author": "Ritesh Ray",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RiteshRay07/otp-generator-by-length/issues"
+  },
+  "homepage": "https://github.com/RiteshRay07/otp-generator-by-length#readme"
+}
