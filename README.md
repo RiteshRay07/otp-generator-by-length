@@ -28,7 +28,7 @@ Here’s how to use the generateOTP function from the package:
 1. **Import the Function**
 
     ```bash
-    import { generateOTP } from 'otp-generator';
+    import { generateOTP } from 'otp-generator-by-length';
 
 2. **Generate an OTP**
 
